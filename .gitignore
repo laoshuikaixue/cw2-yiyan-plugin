@@ -1,11 +1,31 @@
+# Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+.python-version
+
+# Virtual Environments
 venv/
+.venv/
+env/
+
+# IDEs
 .idea/
 .vscode/
+*.swp
+*.swo
+
+# Project specific
 lib/
 dist/
 build/
 *.egg-info/
+.env
+
+# Class Widgets
 *.cwplugin
+
+# OS
+.DS_Store
+Thumbs.db

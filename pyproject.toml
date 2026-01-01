@@ -1,9 +1,9 @@
 [project]
-name = "com-rinlit-test"
-version = "1.0.0"
-description = "A Class Widgets plugin."
+name = "com-lao-shui-yiyan"
+version = "2.0.0"
+description = "每天分享一句话，激励大家学习。"
 authors = [
-    {name = "RinLit"},
+    {name = "LaoShui"},
 ]
 readme = "README.md"
 requires-python = ">=3.9"
